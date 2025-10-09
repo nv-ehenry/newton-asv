@@ -1,0 +1,10 @@
+{
+    "arch": "AMD64",
+    "cpu": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel (16 physical cores, 24 logical)",
+    "gpu": "NVIDIA NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+    "machine": "STL-OV-04",
+    "num_cpu": "16",
+    "os": "Windows 10 Enterprise",
+    "ram": "128GB",
+    "version": 1
+}
