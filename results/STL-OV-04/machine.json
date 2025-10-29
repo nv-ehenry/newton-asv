@@ -1,0 +1,10 @@
+{
+    "arch": "x86_64",
+    "cpu": "x86_64 (16 physical cores, 24 logical)",
+    "gpu": "NVIDIA NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+    "machine": "STL-OV-04",
+    "num_cpu": "16",
+    "os": "Linux 6.8.0-1025-oem",
+    "ram": "126GB",
+    "version": 1
+}
