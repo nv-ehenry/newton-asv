@@ -1,0 +1,10 @@
+{
+    "arch": "AMD64",
+    "cpu": "12th Gen Intel(R) Core(TM) i9-12900K (16 physical cores, 24 logical)",
+    "gpu": "NVIDIA NVIDIA GeForce RTX 4090",
+    "machine": "STL-OV-01 (NVIDIA NVIDIA GeForce RTX 4090)",
+    "num_cpu": "16",
+    "os": "Windows 11 version 10.0.26100",
+    "ram": "128GB",
+    "version": 1
+}
