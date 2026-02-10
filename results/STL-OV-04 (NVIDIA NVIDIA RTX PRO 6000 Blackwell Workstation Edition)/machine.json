@@ -1,0 +1,10 @@
+{
+    "arch": "x86_64",
+    "cpu": "12th Gen Intel(R) Core(TM) i9-12900K (16 physical cores, 24 logical)",
+    "gpu": "NVIDIA NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+    "machine": "STL-OV-04 (NVIDIA NVIDIA RTX PRO 6000 Blackwell Workstation Edition)",
+    "num_cpu": "16",
+    "os": "Linux 6.8.0-1025-oem version #25-Ubuntu SMP PREEMPT_DYNAMIC Wed Mar 26 10:41:42 UTC 2025",
+    "ram": "126GB",
+    "version": 1
+}
