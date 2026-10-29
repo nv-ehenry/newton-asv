@@ -1484,7 +1484,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "8b301f560e11839f31d6855ae626ebc757f5b4c4decf0b942add5c3113108d97",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_all": {
@@ -1500,7 +1500,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "4aa876370ee3a7e0e3306ab7bb2fe64ff09cee31fb7f2e14b99cbe0b8f592023",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_body_inertial_properties": {
@@ -1516,7 +1516,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "17683f4fb9f561706d45681687c5b601141badee8cecf8837564f7688e98924e",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_body_properties": {
@@ -1532,7 +1532,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "d6e765a8d6a228d6bcab6dbde46120f256cf81b8762ae5426d865fffb7f506e9",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_joint_dof_properties": {
@@ -1548,7 +1548,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "68a5c53fa57388b2500caa6f6710410ea90f5a2e88e2b0faed2c6f19577973eb",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_joint_properties": {
@@ -1564,7 +1564,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "76973bd6ed3808865065738b8f677887e791e794eba1108aece0290c07ca2768",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_model_properties": {
@@ -1580,7 +1580,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "a00bd83135d32a2d8a2f0b12c013bedd3fe78deca191fa260e6bff6ad02b0cd6",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_kamino.NotifyDRLegs.time_notify_shape_properties": {
@@ -1596,7 +1596,7 @@
         "timeout": 600,
         "type": "time",
         "unit": "seconds",
-        "version": "fbb9c9138996302ad59f89f32c17e873cd50ea33298ee71627e9e7f29f2db4bb",
+        "version": "2",
         "warmup_time": 0
     },
     "simulation.bench_mujoco.FastAllegro.time_simulate": {
